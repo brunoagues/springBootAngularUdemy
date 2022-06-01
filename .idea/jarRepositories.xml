@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="prime-repo" />
+      <option name="name" value="prime-repo" />
+      <option name="url" value="http://10.8.92.245:8081/artifactory/prime-repo/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus-thirdparty" />
+      <option name="name" value="nexus-thirdparty" />
+      <option name="url" value="http://10.8.92.245:8081/artifactory/nexus-thirdparty/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="sati-repo" />
+      <option name="name" value="sati-repo" />
+      <option name="url" value="http://10.8.92.245:8081/artifactory/SATI-PUBLICO" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Redhat Mavn Repository" />
+      <option name="url" value="https://maven.repository.redhat.com/ga" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus-public" />
+      <option name="name" value="nexus-public" />
+      <option name="url" value="http://10.8.92.245:8081/artifactory/nexus-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="sonatype-repo" />
+      <option name="name" value="sonatype-repo" />
+      <option name="url" value="http://10.8.92.245:8081/artifactory/sonatype-repo/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="oracle-portal-repo" />
+      <option name="name" value="oracle-portal-repo" />
+      <option name="url" value="http://10.8.92.245:8081/artifactory/oracle-portal-repo/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="spring.io-plugins-release" />
+      <option name="name" value="spring.io-plugins-release" />
+      <option name="url" value="http://10.8.92.245:8081/artifactory/spring.io-plugins-release/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jasperreports-repo" />
+      <option name="name" value="jasperreports-repo" />
+      <option name="url" value="http://10.8.92.245:8081/artifactory/jasperreports-repo/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="framework" />
+      <option name="name" value="framework" />
+      <option name="url" value="http://10.8.92.245:8081/artifactory/SATI-Sefazwork/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="redhat-ga-releases" />
+      <option name="name" value="redhat-ga-releases" />
+      <option name="url" value="http://10.8.92.245:8081/artifactory/redhat-ga-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-central" />
+      <option name="name" value="maven-central" />
+      <option name="url" value="http://10.8.92.245:8081/artifactory/MavenCentral/" />
+    </remote-repository>
+  </component>
+</project>
